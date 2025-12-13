@@ -41,8 +41,8 @@ First, fork the main repository to your personal GitHub account.
 Clone your newly forked repository to your local machine:
 
 ```bash
-git clone github.com
-cd llmops-roadmap
+git clone https://github.com/kamipakistan/120-Day-LLMOps.git
+cd 120-Day-LLMOps
 ```
 
 ### Step 3: Create a New Branch
